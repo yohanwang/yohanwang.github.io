@@ -1,0 +1,38 @@
+body {
+    background: #333;
+    width: 80%;
+    margin: auto;
+    max-width: 800px;
+    font-family: Baskerville, "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    line-height: 1.5;
+    color:#f3f3f3;
+    font-size: 17px;
+    }
+a{
+    color: #6895C7;
+}
+p, ul {
+    /* width: 80%; */
+    /* max-width: 800px; */
+    /* margin: auto; */
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Myriad Pro, Avenir, "Avenir Next", "Trebuchet MS", sans-serif;
+}
+.pfp{
+    width: 400px;
+    border-radius:200px;
+    display: block;
+    margin: 0 auto;
+}
+.center {
+    text-align: center;
+}
+nav {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.blog-post-desc{
+    margin-top:0px;
+}
